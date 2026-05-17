@@ -1,0 +1,8 @@
+node_modules/
+target/
+data/
+dist/
+.idea/
+*.class
+*.jar
+*.log
